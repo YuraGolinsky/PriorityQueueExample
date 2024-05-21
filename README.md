@@ -3,13 +3,21 @@ PriorityQueueExample
 
 
 Руководство пользователя программного обеспечения Приоритетная очередь
+
 Описание программы:
+
 Программа "Приоритетная очередь" позволяет управлять очередью задач с разными приоритетами. Задачи с высшим приоритетом обрабатываются первыми. Пользователь может добавлять новые задачи, просматривать задачи с высоким приоритетом, удалять задачи, обновлять приоритеты, сохранять очередь в файл и загружать ее из файла.
+
 Java – это мощный, объектно-ориентированный язык программирования, разработанный компанией Sun Microsystems (сейчас собственность Oracle Corporation). Она известна своей простотой использования, надежностью и переносимостью кода. Вот некоторые ключевые особенности Java:
+
 Объектно-ориентированная: в Java все есть объект, каждый объект имеет свои свойства и методы.
+
 Платформонезависимые: приложения на Java компилируются в байт-код, который выполняется на виртуальной машине Java (JVM), что позволяет им работать на любой платформе, где есть JVM.
+
 Автоматическое управление памятью: Java автоматически производит сборку мусора, что позволяет разработчикам не следить за выделением и освобождением памяти.
+
 Многопоточность: язык имеет встроенную поддержку для создания и управления потоками выполнения, что позволяет создавать эффективные многопоточные программы.
+
 Безопасность Java имеет встроенную систему безопасности, которая обеспечивает безопасную виртуализацию среды выполнения.
 
 Инструкция
@@ -147,12 +155,20 @@ The result after deleting the task
 
 Software User's Guide Priority Queue
 Program description:
+
 The Priority Queue program allows you to manage a queue of tasks with different priorities. Tasks with the highest priority are processed first. The user can add new tasks, view high priority tasks, delete tasks, update priorities, save the queue to a file and load it from a file.
-Java is a powerful, object-oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation). It is known for its ease of use, reliability, and code portability. Here are some key features of Java:
+
+Java is a powerful, object-oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation). It is known for its ease of use, 
+
+reliability, and code portability. Here are some key features of Java:
 Object Oriented: In Java, everything is an object, each object has its own properties and methods.
+
 Platform independent: Java applications are compiled into bytecode that runs on the Java Virtual Machine (JVM), allowing them to run on any platform that has a JVM.
+
 Automatic memory management: Java automatically performs garbage collection, which eliminates the need for developers to have to worry about memory allocation and deallocation.
+
 Multithreading: The language has built-in support for creating and managing threads of execution, allowing you to create efficient multithreaded programs.
+
 Security Java has built-in security that enables secure virtualization of the runtime environment.
 
 Instructions
