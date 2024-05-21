@@ -77,20 +77,28 @@ Task используемый в классе
 
 
 Как работает программа
+
 Photos of how the works
 
 Добавление задачи
+
 Adding a task
 
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/2e28f272-8b62-409c-8158-56817c407262)
 
 Удаление задачи и сохранение файла и ввод информации из файла
+
 Deleting a task and saving a file and entering information from a file
 
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/104b39e7-9bb5-4f61-83cb-7298bde6a703)
 
 Сохранение данных в файл и помощь
+
 Дополнительные данные для файла и Help
+
+Saving data to a file and help
+
+Additional information for the file and Help
 
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/307f50e0-7b1e-4ac0-9bbf-44267cc5c03e)
 
@@ -124,6 +132,7 @@ Delete by task ID
 
 
 Результат после удаления задания
+
 The result after deleting the task
 
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/1d1282fd-5970-46e0-8842-c820cbb5afa2)
