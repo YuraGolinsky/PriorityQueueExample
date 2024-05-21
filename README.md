@@ -32,8 +32,8 @@ Java – это мощный, объектно-ориентированный я
 Введите ID задачи, которую необходимо обновить.
 Введите новый приоритет для задания.
 Приоритет данной задачи будет обновлен.
-5.Удаление задания по ID:
 
+5.Удаление задания по ID:
 Выберите меню "Удалить задание по ID".
 Введите ID задачи, которую необходимо удалить.
 Задание будет удалено из очереди.
@@ -81,18 +81,24 @@ Photos of how the works
 
 Добавление задачи
 Adding a task
+
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/2e28f272-8b62-409c-8158-56817c407262)
 
 Удаление задачи и сохранение файла и ввод информации из файла
 Deleting a task and saving a file and entering information from a file
+
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/104b39e7-9bb5-4f61-83cb-7298bde6a703)
 
 Сохранение данных в файл и помощь
 Дополнительные данные для файла и Help
+
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/307f50e0-7b1e-4ac0-9bbf-44267cc5c03e)
+
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/b5acb362-bb71-4e62-ab4c-db11a921a5d9)
+
 Как выглядит информация в файле
 What the information в the file looks like
+
 ![image](https://github.com/YuraGolinsky/PriorityQueueExample/assets/134283897/ee9e3861-a42c-40a0-a6dc-5c8671c67f5d)
 
 Удаление через ID задачи
@@ -160,8 +166,8 @@ Select the "Update task priority" menu.
 Enter the ID of the task you want to update.
 Enter a new priority for the job.
 The priority of this task will be updated.
-5.Deleting a task by ID:
 
+5.Deleting a task by ID:
 Select the "Delete task by ID" menu.
 Enter the ID of the task you want to delete.
 The job will be removed from the queue.
